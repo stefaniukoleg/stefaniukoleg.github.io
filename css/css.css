@@ -1,0 +1,41 @@
+@media screen and (min-width: 480px) {
+    #platformNav {
+        font-size: 150px;
+    }
+}
+
+.parallax-container {
+      height: 100%;
+    }
+
+#platformNav {  
+	font-family: 'Gruppo', cursive;
+	font-size: 45px;
+}
+
+.fontMain {
+	font-family: 'Gruppo', cursive;
+	font-size: 50px;
+}
+
+.icon1{
+	color: #1976d2;
+}
+.icon2{
+	color: #c62828;
+}
+.icon3{
+	color: #388e3c;
+}
+
+.textinside{
+	color: white;
+}
+
+.textinsideBold{
+	color: #ffa000;
+}
+.textfloatright{
+float: right;	
+}
+
